@@ -1,0 +1,1 @@
+{"ORG-AFF": ["ORG", "PER", "GPE"], "GEN-AFF": ["PER", "ORG","FAC"], "PHYS": ["LOC", "PER", "FAC", "GPE", "ORG"], "PART-WHOLE": ["LOC", "WEA", "PER", "FAC", "VEH", "ORG", "GPE"], "ART": ["PER", "ORG", "GPE"], "PER-SOC": ["PER"]}

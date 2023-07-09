@@ -1,0 +1,8 @@
+{"ORG-AFF": "Organization-Affiliation contains: Employment Relation, from person to geo-political entity or organization; Ownership Relation: from person to organization; Founder Relation: from person or organization to organization or geo-political entity; Student-Alum Relation: from person to organization; Sports-Affiliation Relation: from person to organization; Investor-Shareholder Relation: from person or organization or geo-political entity to organization or geo-political entity; Membership Relation: from person or organization or geo-political entity to organization.", 
+ "GEN-AFF": "Gen-Affiliation contains: Citizen-Resident-Religion-Ethnicity Relation, from person to person or organization or location or geo-political entity; Org-Location-Origin Relation: from organization to location or geo-political entity.", 
+ "PHYS": "Physical contains: Located Relation, from person to facility or location or geo-political entity; Near Relation, from person or facility or location or geo-political entity to facility or location or geo-political entity.", 
+ "PART-WHOLE": "Part-whole contains: Geographical Relation, from facility or location or geo-political entity to facility or location or geo-political entity; Subsidiary Relation, from organization to organization or geo-political entity.", 
+ "ART": "Agent-Artifact contains: User-Owner-Inventor-Manufacturer Relation, from person or organization or geo-political entity to facility.", 
+ "PER-SOC": "Personal-Social contains: Business Relation, from person to person; Family Relation, from person to person; Lasting-Personal Relation, from person to person.",
+ "O": "None relations."    
+}
